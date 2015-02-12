@@ -1,7 +1,7 @@
 Enterprise Ape
 ===============
 
-Powerful Software
+Powerful Software based on Ruby on rails
 -----------------
 
 
@@ -9,13 +9,11 @@ Powerful Software
 
 Feel free to access [my portfolio](http://appgr1.herokuapp.com/invoices).
 
-> ## dfdsadasdaasdasd
+> ## this is a unfinished project
 > 
-> ASASdasddsadsadasd
+> still learning and working
 >
-> sadadsadsadsad *gravida*.
 
-sadadsadsadsad **gravida**.
 
 ### Crazy good 
 * Rapid development
@@ -27,4 +25,3 @@ sadadsadsadsad **gravida**.
 2. Precsion
 3. Preformance
 
-This is what ruby code would  look like `puts 'hello world'`
